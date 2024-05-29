@@ -16,7 +16,7 @@ I'm a passionate **Backend Developer** and **Data Analyst** with a knack for sol
 
 <a href="http://www.github.com/vp923vin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vp923vin&stroke=ffffff&background=141321&ring=ff3068&fire=ff3068&currStreakNum=ffffff&currStreakLabel=ff3068&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/vp923vin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vp923vin&langs_count=10&title_color=ff3068&text_color=ffffff&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/vp923vin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vp923vin&langs_count=10&title_color=ff3068&text_color=ffffff&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a> -->
 
 ## 🌐 Connect with Me
 
